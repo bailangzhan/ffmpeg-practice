@@ -1,0 +1,6 @@
+# except IDE File
+.settings/
+.buildpath
+.project
+.DS_Store
+.idea/
